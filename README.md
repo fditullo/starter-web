@@ -10,6 +10,8 @@ commands using a web project
 
 ## Deployment
 
+In this session the deployment is explained
+
 ## Purpose
 
 Sample website with plenty of files for demos
