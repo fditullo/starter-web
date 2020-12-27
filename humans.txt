@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Francesco DI TULLO   fditullo06@gmail.com
 
 # THANKS
 
